@@ -1,7 +1,7 @@
-https://github.com/KScottDB/ProjectBMMO
+https://github.com/KScottDB/ProjectFMMO
 https://discord.gg/ksKMfHK
 
-"MARIO & LUIGI LIVE" (Project Blaze's MMO) ENGINE TO-DO LIST
+"MARIO & LUIGI LIVE" (Project Flames' MMO) ENGINE TO-DO LIST
 
 - overworld:
   - player can move around
