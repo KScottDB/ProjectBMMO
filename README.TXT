@@ -5,6 +5,7 @@ https://discord.gg/ksKMfHK
 
 - overworld:
   - player can move around
+  - player animations
   - maps:
     - can be loaded from a set of files
       (tileset, tiles)
