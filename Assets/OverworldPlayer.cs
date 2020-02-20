@@ -37,10 +37,10 @@ public class OverworldPlayer : MonoBehaviour
         if (nv) o = 'C'; // Up
         if (pv) o = 'D'; // Down
 
-        if (nh && pv) o = 'E'; // Northwest
-        if (nh && nv) o = 'F'; // Southwest
-        if (ph && pv) o = 'G'; // Northeast
-        if (ph && nv) o = 'H'; // Southeast
+        if (nh && pv) o = 'E'; // Northwest ( Left + Up )
+        if (nh && nv) o = 'F'; // Southwest ( Left + Down )
+        if (ph && pv) o = 'G'; // Northeast ( Right + Up )
+        if (ph && nv) o = 'H'; // Southeast ( Right + Down )
 
         return o;
     }
@@ -62,7 +62,11 @@ public class OverworldPlayer : MonoBehaviour
 
         if (direction == 'x') direction = ld; // x means no change
 
-        animator.speed = Mathf.Abs((hspeed + vspeed) * PPU);
+        animator.speed = (Mathf.Abs(hspeed) + Mathf.Abs(vspeed)) * PPU;
+
+        // don't speed up diagonal animations
+        if ("EFGH".IndexOf(direction) != -1)
+            animator.speed = (Mathf.Abs(hspeed) + Mathf.Abs(vspeed)) / 2 * PPU;
 
         animator.Play(pclass + state + direction);
         
