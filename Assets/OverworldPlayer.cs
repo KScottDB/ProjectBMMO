@@ -57,10 +57,10 @@ public class OverworldPlayer : MonoBehaviour
         vspeed = Input.GetAxis("Vertical") * movespeed;
 
         // Animation code
-        if (hspeed < 0) direction = 'A'; // LEFT
-        if (hspeed > 0) direction = 'B'; // RIGHT
-        if (hspeed > 0) direction = 'C'; // FORWARD
-        if (vspeed < 0) direction = 'D'; // BACK
+        char ld = direction; // last direction
+        direction = getDirection(hspeed, vspeed);
+
+        if (direction == 'x') direction = ld; // x means no change
 
         animator.speed = Mathf.Abs((hspeed + vspeed) * PPU);
 
