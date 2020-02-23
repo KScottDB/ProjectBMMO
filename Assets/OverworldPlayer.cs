@@ -1,6 +1,7 @@
 ﻿using System.Collections;
 using System.Collections.Generic;
 using UnityEngine;
+using UnityEngine.UI;
 
 public class OverworldPlayer : MonoBehaviour
 {
@@ -16,6 +17,8 @@ public class OverworldPlayer : MonoBehaviour
 
     Animator animator;
 
+    public Text debugoutput;
+
     // Start is called before the first frame update
     void Start()
     {
@@ -23,7 +26,7 @@ public class OverworldPlayer : MonoBehaviour
     }
 
     char getDirection(float hspeed, float vspeed) {
-        const float deadzone = 0.05f;
+        const float deadzone = 0f;
 
         bool nh = hspeed < deadzone; // Negative Hspeed
         bool ph = hspeed > deadzone; // Positive Hspeed
@@ -46,8 +49,8 @@ public class OverworldPlayer : MonoBehaviour
     }
 
     // PHYSICS
-    const float movespeed = 1f / PPU;
-                         // (1px / 32 PPU) per frame
+    const float movespeed = 1.5f  / PPU;
+                        // (1.5px / 32 PxPerUnit) per frame
 
     // Update is called once per frame
     void Update()
@@ -68,6 +71,7 @@ public class OverworldPlayer : MonoBehaviour
         if ("EFGH".IndexOf(direction) != -1)
             animator.speed = (Mathf.Abs(hspeed) + Mathf.Abs(vspeed)) / 2 * PPU;
 
+        debugoutput.text = pclass + state + direction;
         animator.Play(pclass + state + direction);
         
         // if not moving, set to frame 0

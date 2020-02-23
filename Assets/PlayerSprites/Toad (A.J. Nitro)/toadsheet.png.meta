@@ -4,40 +4,490 @@ TextureImporter:
   internalIDToNameTable:
   - first:
       213: 5094672609994667025
-    second: toadDW0
+    second: toadsheet_0
   - first:
       213: 7161492219542032185
-    second: toadDW1
-  - first:
-      213: -8674763845588360364
-    second: toadForwardW0
-  - first:
-      213: 1773185985482120147
-    second: toadsheet_2
-  - first:
-      213: -8345397676547154597
     second: toadDW0
   - first:
-      213: -8345397676547154597
+      213: -8674763845588360364
+    second: toadDW1
+  - first:
+      213: 5307888637370632712
     second: toadDW2
   - first:
-      213: 992991424130078201
+      213: -654323462315781221
     second: toadDW3
   - first:
-      213: 6178925108354822980
+      213: 8767246912535625340
     second: toadDW4
   - first:
-      213: 6178925108354822980
-    second: toadDW4
-  - first:
-      213: 1201378573802970350
+      213: 8310528088535144202
     second: toadDW5
+  - first:
+      213: 3155115044689633162
+    second: toadDW6
+  - first:
+      213: 953380335266424707
+    second: toadDW7
+  - first:
+      213: -2715227017862283699
+    second: toadsheet_9
+  - first:
+      213: 3098420744061427928
+    second: toadsheet_10
+  - first:
+      213: -6032093040238949966
+    second: toadsheet_11
+  - first:
+      213: -2389924528630249923
+    second: toadsheet_12
+  - first:
+      213: -1762996772823406055
+    second: toadsheet_13
+  - first:
+      213: -1902729263217204222
+    second: toadsheet_14
+  - first:
+      213: -3266889005984833301
+    second: toadsheet_15
+  - first:
+      213: -8044054557359129855
+    second: toadHW0
+  - first:
+      213: 8843864906782993531
+    second: toadHW1
+  - first:
+      213: -6869788993849469060
+    second: toadHW2
+  - first:
+      213: -3499662514678446403
+    second: toadHW3
+  - first:
+      213: -3412397010748628258
+    second: toadHW4
+  - first:
+      213: -5510124941423392606
+    second: toadHW5
+  - first:
+      213: -1895341155436282988
+    second: toadHW6
+  - first:
+      213: -5550036014731413288
+    second: toadHW7
+  - first:
+      213: 7623377250772174691
+    second: toadFW7
+  - first:
+      213: 6911877031863175894
+    second: toadFW6
+  - first:
+      213: -439772709259522767
+    second: toadFW5
+  - first:
+      213: 2668738454573978576
+    second: toadFW4
+  - first:
+      213: 883519637000893545
+    second: toadFW3
+  - first:
+      213: -2688107272741368635
+    second: toadFW2
+  - first:
+      213: 880772690737584260
+    second: toadFW1
+  - first:
+      213: -2761461273759194622
+    second: toadFW0
+  - first:
+      213: -5509506503896082906
+    second: toadBW0
+  - first:
+      213: -6633134569109828855
+    second: toadBW1
+  - first:
+      213: 3424129471744939039
+    second: toadBW2
+  - first:
+      213: -5956369012757634321
+    second: toadBW3
+  - first:
+      213: 1515818180267389884
+    second: toadBW4
+  - first:
+      213: -277061862838406921
+    second: toadBW5
+  - first:
+      213: -8709764167115556164
+    second: toadBW6
+  - first:
+      213: -4036160567395888992
+    second: toadBW7
+  - first:
+      213: -5793607176347856257
+    second: toadAW7
+  - first:
+      213: 6392389696164194086
+    second: toadAW6
+  - first:
+      213: -8215012732025944625
+    second: toadAW5
+  - first:
+      213: 3378654961209462155
+    second: toadAW4
+  - first:
+      213: -549070791753773675
+    second: toadAW3
+  - first:
+      213: -6511932631175754687
+    second: toadAW2
+  - first:
+      213: 6824225215772393916
+    second: toadAW1
+  - first:
+      213: -4708199640796396560
+    second: toadAW0
+  - first:
+      213: 9034352709371148510
+    second: toadGW0
+  - first:
+      213: -5517445596465050901
+    second: toadGW1
+  - first:
+      213: 2488074703945999393
+    second: toadGW2
+  - first:
+      213: 8687700092659786473
+    second: toadGW3
+  - first:
+      213: 6640916102659491593
+    second: toadGW4
+  - first:
+      213: 2429398432369994364
+    second: toadGW5
+  - first:
+      213: 5209943158259082708
+    second: toadGW6
+  - first:
+      213: -242199893200075856
+    second: toadGW7
+  - first:
+      213: -1528938371946756375
+    second: toadEW7
+  - first:
+      213: 823205831708865731
+    second: toadEW6
+  - first:
+      213: 8724008540164885199
+    second: toadEW5
+  - first:
+      213: -279643565246786302
+    second: toadEW4
+  - first:
+      213: -3801147505319475510
+    second: toadEW3
+  - first:
+      213: 3502201169514287441
+    second: toadEW2
+  - first:
+      213: -6709597966687376629
+    second: toadEW1
+  - first:
+      213: 6356879480453228369
+    second: toadEW0
+  - first:
+      213: -4788197211456024308
+    second: toadCW0
+  - first:
+      213: -7258712752888538748
+    second: toadCW1
+  - first:
+      213: -8923022085862178877
+    second: toadCW2
+  - first:
+      213: -6095178358883266715
+    second: toadCW3
+  - first:
+      213: -6526360992938996153
+    second: toadCW4
+  - first:
+      213: -3752150591988349661
+    second: toadCW5
+  - first:
+      213: -753475598492064764
+    second: toadCW6
+  - first:
+      213: -4437050552330638378
+    second: toadCW7
+  - first:
+      213: -3516537122771512327
+    second: toadsheet_72
+  - first:
+      213: 6620068319907177594
+    second: toadsheet_73
+  - first:
+      213: -1061173962229226441
+    second: toadsheet_74
+  - first:
+      213: -8932628104316361783
+    second: toadsheet_75
+  - first:
+      213: -9107849059604788873
+    second: toadsheet_76
+  - first:
+      213: -1263912861181561870
+    second: toadsheet_77
+  - first:
+      213: -7908692153276954349
+    second: toadsheet_78
+  - first:
+      213: -3869427319637970935
+    second: toadsheet_79
+  - first:
+      213: 7716199218039239036
+    second: toadDS0
+  - first:
+      213: 5997820055741087514
+    second: toadDS1
+  - first:
+      213: -1938236468634549024
+    second: toadDS2
+  - first:
+      213: -7544556212889497302
+    second: toadDS3
+  - first:
+      213: -2651786429351516988
+    second: toadsheet_84
+  - first:
+      213: -8369529655593895572
+    second: toadsheet_85
+  - first:
+      213: -4706198814556331649
+    second: toadsheet_86
+  - first:
+      213: -4212531358684439585
+    second: toadsheet_87
+  - first:
+      213: 4008584976219993862
+    second: toadBS0
+  - first:
+      213: -2067107294877968240
+    second: toadBS1
+  - first:
+      213: -6790098445432935600
+    second: toadBS2
+  - first:
+      213: 7051962362943571510
+    second: toadBS3
+  - first:
+      213: -8433140393837159056
+    second: toadAS3
+  - first:
+      213: -5749867860638138618
+    second: toadAS2
+  - first:
+      213: 8934328415813122880
+    second: toadAS1
+  - first:
+      213: 8050371767928499878
+    second: toadAS0
+  - first:
+      213: -3478603118110239234
+    second: toadCS0
+  - first:
+      213: -858105691705766124
+    second: toadCS1
+  - first:
+      213: -5164976097814039428
+    second: toadCS2
+  - first:
+      213: -8885530860196460907
+    second: toadCS3
+  - first:
+      213: -8752856627375166005
+    second: toadBL
+  - first:
+      213: -5892771600588743642
+    second: toadAL
+  - first:
+      213: -4027029341867235049
+    second: toadsheet_102
+  - first:
+      213: -4637784761538324910
+    second: toadsheet_103
+  - first:
+      213: -5177336393452330832
+    second: toadsheet_104
+  - first:
+      213: -3837421710837073332
+    second: toadsheet_105
+  - first:
+      213: 8464444262976954463
+    second: toadsheet_106
+  - first:
+      213: -452233775165572833
+    second: toadsheet_107
+  - first:
+      213: -1377241688576804358
+    second: toadsheet_108
+  - first:
+      213: 1384526700706569802
+    second: toadsheet_109
+  - first:
+      213: -3132939958450073060
+    second: toadsheet_110
+  - first:
+      213: 5779395623781736872
+    second: toadsheet_111
+  - first:
+      213: 1791624862933152279
+    second: toadsheet_112
+  - first:
+      213: 3189294653162696479
+    second: toadsheet_113
+  - first:
+      213: -6283055335408555406
+    second: toadsheet_114
+  - first:
+      213: -3741106066303035108
+    second: toadsheet_115
+  - first:
+      213: 4731171513822777061
+    second: toadsheet_116
+  - first:
+      213: 1224548874036729808
+    second: toadsheet_117
+  - first:
+      213: 8225642621559386821
+    second: toadsheet_118
+  - first:
+      213: 3695489180865855277
+    second: toadsheet_119
+  - first:
+      213: -2215301425656692754
+    second: toadsheet_120
+  - first:
+      213: 134553968091334112
+    second: toadsheet_121
+  - first:
+      213: -8317368575502746159
+    second: toadsheet_122
+  - first:
+      213: -8168922169864606578
+    second: toadsheet_123
+  - first:
+      213: -8143731281798602865
+    second: toadsheet_124
+  - first:
+      213: -1249210383243098063
+    second: toadsheet_125
+  - first:
+      213: 139216128641484262
+    second: toadsheet_126
+  - first:
+      213: 7245753080617737574
+    second: toadsheet_127
+  - first:
+      213: -1487520291618963506
+    second: toadsheet_128
+  - first:
+      213: -8935306643516498359
+    second: toadsheet_129
+  - first:
+      213: -319850959976992847
+    second: toadsheet_130
+  - first:
+      213: 778768318473009121
+    second: toadsheet_131
+  - first:
+      213: -4358902126730074599
+    second: toadsheet_132
+  - first:
+      213: 4309836958245469181
+    second: toadsheet_133
+  - first:
+      213: -8179280989219097481
+    second: toadsheet_134
+  - first:
+      213: -1640759542571299549
+    second: toadsheet_135
+  - first:
+      213: 6504689161229785601
+    second: toadsheet_136
+  - first:
+      213: -5381020565493913563
+    second: toadsheet_137
+  - first:
+      213: 5931353999812317494
+    second: toadsheet_138
+  - first:
+      213: 6511171167113447358
+    second: toadsheet_139
+  - first:
+      213: -2995206038609408309
+    second: toadsheet_140
+  - first:
+      213: -6302168700849325767
+    second: toadsheet_141
+  - first:
+      213: 2259160507890139021
+    second: toadsheet_142
+  - first:
+      213: -8275499269977397548
+    second: toadsheet_143
+  - first:
+      213: 6130045508782922438
+    second: toadsheet_144
+  - first:
+      213: -1725880090359451245
+    second: toadsheet_145
+  - first:
+      213: 399754529104344214
+    second: toadsheet_146
+  - first:
+      213: 8943164860362198755
+    second: toadsheet_147
+  - first:
+      213: 6309165285749985841
+    second: toadsheet_148
+  - first:
+      213: -974826982415805738
+    second: toadsheet_149
+  - first:
+      213: -6736919694034583571
+    second: toadsheet_150
+  - first:
+      213: -2194573448379880818
+    second: toadsheet_151
+  - first:
+      213: -5716982402199097011
+    second: toadsheet_152
+  - first:
+      213: -4167163514977400608
+    second: toadsheet_153
+  - first:
+      213: 2884188700807657176
+    second: toadsheet_154
+  - first:
+      213: -9091271411032092284
+    second: toadsheet_155
+  - first:
+      213: 8680168506173129413
+    second: toadsheet_156
+  - first:
+      213: 8573571518932432158
+    second: toadsheet_157
+  - first:
+      213: -596291353071158791
+    second: toadsheet_158
+  - first:
+      213: 409739360367332169
+    second: toadsheet_159
   - first:
       213: 8764441447127966930
-    second: toadDW5
+    second: toadDW0
   - first:
-      213: 832286307240022035
-    second: toadDW7
+      213: 1773185985482120147
+    second: toadDW1
   externalObjects: {}
   serializedVersion: 10
   mipmaps:
@@ -148,8 +598,8 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 114f4adfeb9e3b640800000000000000
-      internalID: 5094672609994667025
+      spriteID: 93fc68ffa3bb26360800000000000000
+      internalID: 7161492219542032185
       vertices: []
       indices: 
       edges: []
@@ -169,8 +619,8 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 93fc68ffa3bb26360800000000000000
-      internalID: 7161492219542032185
+      spriteID: 453ed494e3c0d9780800000000000000
+      internalID: -8674763845588360364
       vertices: []
       indices: 
       edges: []
@@ -190,8 +640,8 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: b5d590c67013f2c80800000000000000
-      internalID: -8345397676547154597
+      spriteID: 80a0fc1e79869a940800000000000000
+      internalID: 5307888637370632712
       vertices: []
       indices: 
       edges: []
@@ -211,8 +661,8 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 9f5584c6070d7cd00800000000000000
-      internalID: 992991424130078201
+      spriteID: b93d67c17406be6f0800000000000000
+      internalID: -654323462315781221
       vertices: []
       indices: 
       edges: []
@@ -232,29 +682,8 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 4433b3116a3ffb550800000000000000
-      internalID: 6178925108354822980
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: toadDW6
-      rect:
-        serializedVersion: 2
-        x: 154
-        y: 308
-        width: 20
-        height: 25
-      alignment: 7
-      pivot: {x: 0.5, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: eec9a4c92772ca010800000000000000
-      internalID: 1201378573802970350
+      spriteID: c7e73d7bd948ba970800000000000000
+      internalID: 8767246912535625340
       vertices: []
       indices: 
       edges: []
@@ -274,8 +703,29 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 2d4e5c66f0d81a970800000000000000
-      internalID: 8764441447127966930
+      spriteID: a071b05f34de45370800000000000000
+      internalID: 8310528088535144202
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: toadDW6
+      rect:
+        serializedVersion: 2
+        x: 154
+        y: 308
+        width: 20
+        height: 25
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a8f5738aa6839cb20800000000000000
+      internalID: 3155115044689633162
       vertices: []
       indices: 
       edges: []
@@ -295,8 +745,1562 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 310967e9cffdc8b00800000000000000
-      internalID: 832286307240022035
+      spriteID: 387e56b1d561b3d00800000000000000
+      internalID: 953380335266424707
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: toadHW0
+      rect:
+        serializedVersion: 2
+        x: 4
+        y: 276
+        width: 19
+        height: 27
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 10b3fb2dff6cd5090800000000000000
+      internalID: -8044054557359129855
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: toadHW1
+      rect:
+        serializedVersion: 2
+        x: 28
+        y: 276
+        width: 19
+        height: 25
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b7ce752a648bbba70800000000000000
+      internalID: 8843864906782993531
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: toadHW2
+      rect:
+        serializedVersion: 2
+        x: 52
+        y: 276
+        width: 19
+        height: 25
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c77d6bbce4b99a0a0800000000000000
+      internalID: -6869788993849469060
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: toadHW3
+      rect:
+        serializedVersion: 2
+        x: 76
+        y: 276
+        width: 19
+        height: 25
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: db647d22c73be6fc0800000000000000
+      internalID: -3499662514678446403
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: toadHW4
+      rect:
+        serializedVersion: 2
+        x: 100
+        y: 276
+        width: 19
+        height: 27
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ed229b59ffab4a0d0800000000000000
+      internalID: -3412397010748628258
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: toadHW5
+      rect:
+        serializedVersion: 2
+        x: 124
+        y: 276
+        width: 19
+        height: 26
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2a840764f8a1883b0800000000000000
+      internalID: -5510124941423392606
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: toadHW6
+      rect:
+        serializedVersion: 2
+        x: 148
+        y: 276
+        width: 19
+        height: 25
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 49bba06d24562b5e0800000000000000
+      internalID: -1895341155436282988
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: toadHW7
+      rect:
+        serializedVersion: 2
+        x: 172
+        y: 276
+        width: 19
+        height: 26
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8d83f4366af4af2b0800000000000000
+      internalID: -5550036014731413288
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: toadFW7
+      rect:
+        serializedVersion: 2
+        x: 215
+        y: 276
+        width: 19
+        height: 26
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 367c11d183dabc960800000000000000
+      internalID: 7623377250772174691
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: toadFW6
+      rect:
+        serializedVersion: 2
+        x: 239
+        y: 276
+        width: 19
+        height: 25
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6dac26f2a8bebef50800000000000000
+      internalID: 6911877031863175894
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: toadFW5
+      rect:
+        serializedVersion: 2
+        x: 263
+        y: 276
+        width: 19
+        height: 26
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 13dccaa0d0d95e9f0800000000000000
+      internalID: -439772709259522767
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: toadFW4
+      rect:
+        serializedVersion: 2
+        x: 287
+        y: 276
+        width: 19
+        height: 27
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0d39e4f1c73490520800000000000000
+      internalID: 2668738454573978576
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: toadFW3
+      rect:
+        serializedVersion: 2
+        x: 311
+        y: 276
+        width: 19
+        height: 25
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9643583cd64e24c00800000000000000
+      internalID: 883519637000893545
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: toadFW2
+      rect:
+        serializedVersion: 2
+        x: 335
+        y: 276
+        width: 19
+        height: 25
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5cc4b1a7dace1bad0800000000000000
+      internalID: -2688107272741368635
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: toadFW1
+      rect:
+        serializedVersion: 2
+        x: 359
+        y: 276
+        width: 19
+        height: 25
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 488574f7812293c00800000000000000
+      internalID: 880772690737584260
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: toadFW0
+      rect:
+        serializedVersion: 2
+        x: 383
+        y: 276
+        width: 19
+        height: 27
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 202e5943a915da9d0800000000000000
+      internalID: -2761461273759194622
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: toadBW0
+      rect:
+        serializedVersion: 2
+        x: 4
+        y: 244
+        width: 18
+        height: 27
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 626d19b760d4a83b0800000000000000
+      internalID: -5509506503896082906
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: toadBW1
+      rect:
+        serializedVersion: 2
+        x: 27
+        y: 244
+        width: 18
+        height: 26
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 90b48d4d04f52f3a0800000000000000
+      internalID: -6633134569109828855
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: toadBW2
+      rect:
+        serializedVersion: 2
+        x: 50
+        y: 244
+        width: 18
+        height: 25
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f149d4cdc93f48f20800000000000000
+      internalID: 3424129471744939039
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: toadBW3
+      rect:
+        serializedVersion: 2
+        x: 73
+        y: 244
+        width: 18
+        height: 26
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fe2ef6be0f9b65da0800000000000000
+      internalID: -5956369012757634321
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: toadBW4
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 244
+        width: 18
+        height: 27
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cb3bae29a94490510800000000000000
+      internalID: 1515818180267389884
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: toadBW5
+      rect:
+        serializedVersion: 2
+        x: 119
+        y: 244
+        width: 18
+        height: 26
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7f075b424bda72cf0800000000000000
+      internalID: -277061862838406921
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: toadBW6
+      rect:
+        serializedVersion: 2
+        x: 142
+        y: 244
+        width: 18
+        height: 25
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cbab6a5e2a3b02780800000000000000
+      internalID: -8709764167115556164
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: toadBW7
+      rect:
+        serializedVersion: 2
+        x: 165
+        y: 244
+        width: 18
+        height: 26
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0a0dde3395dacf7c0800000000000000
+      internalID: -4036160567395888992
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: toadAW7
+      rect:
+        serializedVersion: 2
+        x: 223
+        y: 244
+        width: 18
+        height: 26
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f72d1ad08f8f89fa0800000000000000
+      internalID: -5793607176347856257
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: toadAW6
+      rect:
+        serializedVersion: 2
+        x: 246
+        y: 244
+        width: 18
+        height: 25
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 627ebb17f8456b850800000000000000
+      internalID: 6392389696164194086
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: toadAW5
+      rect:
+        serializedVersion: 2
+        x: 269
+        y: 244
+        width: 18
+        height: 26
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fc5484af1796efd80800000000000000
+      internalID: -8215012732025944625
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: toadAW4
+      rect:
+        serializedVersion: 2
+        x: 292
+        y: 244
+        width: 18
+        height: 27
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b8d408d49c463ee20800000000000000
+      internalID: 3378654961209462155
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: toadAW3
+      rect:
+        serializedVersion: 2
+        x: 315
+        y: 244
+        width: 18
+        height: 26
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 59d49f4260f4168f0800000000000000
+      internalID: -549070791753773675
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: toadAW2
+      rect:
+        serializedVersion: 2
+        x: 338
+        y: 244
+        width: 18
+        height: 25
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 14c8e7d06c7f0a5a0800000000000000
+      internalID: -6511932631175754687
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: toadAW1
+      rect:
+        serializedVersion: 2
+        x: 361
+        y: 244
+        width: 18
+        height: 26
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cb1806d6da484be50800000000000000
+      internalID: 6824225215772393916
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: toadAW0
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 244
+        width: 18
+        height: 27
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0f385be2f5d19aeb0800000000000000
+      internalID: -4708199640796396560
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: toadGW0
+      rect:
+        serializedVersion: 2
+        x: 4
+        y: 211
+        width: 20
+        height: 27
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ed8b7a15ce7706d70800000000000000
+      internalID: 9034352709371148510
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: toadGW1
+      rect:
+        serializedVersion: 2
+        x: 29
+        y: 211
+        width: 20
+        height: 26
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bea482376781e63b0800000000000000
+      internalID: -5517445596465050901
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: toadGW2
+      rect:
+        serializedVersion: 2
+        x: 54
+        y: 211
+        width: 20
+        height: 25
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1242657c2ca678220800000000000000
+      internalID: 2488074703945999393
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: toadGW3
+      rect:
+        serializedVersion: 2
+        x: 79
+        y: 211
+        width: 20
+        height: 26
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9e26d127439e09870800000000000000
+      internalID: 8687700092659786473
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: toadGW4
+      rect:
+        serializedVersion: 2
+        x: 104
+        y: 211
+        width: 20
+        height: 27
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 907c032a206492c50800000000000000
+      internalID: 6640916102659491593
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: toadGW5
+      rect:
+        serializedVersion: 2
+        x: 129
+        y: 211
+        width: 20
+        height: 26
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c7aed43b005f6b120800000000000000
+      internalID: 2429398432369994364
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: toadGW6
+      rect:
+        serializedVersion: 2
+        x: 154
+        y: 211
+        width: 20
+        height: 25
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4d56200f2bf6d4840800000000000000
+      internalID: 5209943158259082708
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: toadGW7
+      rect:
+        serializedVersion: 2
+        x: 179
+        y: 211
+        width: 20
+        height: 26
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0b30c29fa7883acf0800000000000000
+      internalID: -242199893200075856
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: toadEW7
+      rect:
+        serializedVersion: 2
+        x: 207
+        y: 211
+        width: 20
+        height: 26
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9e646a0c6ae18cae0800000000000000
+      internalID: -1528938371946756375
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: toadEW6
+      rect:
+        serializedVersion: 2
+        x: 232
+        y: 211
+        width: 20
+        height: 25
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3c47908a75d9c6b00800000000000000
+      internalID: 823205831708865731
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: toadEW5
+      rect:
+        serializedVersion: 2
+        x: 257
+        y: 211
+        width: 20
+        height: 26
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fca8006ab87e11970800000000000000
+      internalID: 8724008540164885199
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: toadEW4
+      rect:
+        serializedVersion: 2
+        x: 282
+        y: 211
+        width: 20
+        height: 27
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 205ddb5b8a18e1cf0800000000000000
+      internalID: -279643565246786302
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: toadEW3
+      rect:
+        serializedVersion: 2
+        x: 307
+        y: 211
+        width: 20
+        height: 26
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ac60296bb7c9f3bc0800000000000000
+      internalID: -3801147505319475510
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: toadEW2
+      rect:
+        serializedVersion: 2
+        x: 332
+        y: 211
+        width: 20
+        height: 25
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1515bd088615a9030800000000000000
+      internalID: 3502201169514287441
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: toadEW1
+      rect:
+        serializedVersion: 2
+        x: 357
+        y: 211
+        width: 20
+        height: 26
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b0b6ae1c238b2e2a0800000000000000
+      internalID: -6709597966687376629
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: toadEW0
+      rect:
+        serializedVersion: 2
+        x: 382
+        y: 211
+        width: 20
+        height: 27
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1576260153c283850800000000000000
+      internalID: 6356879480453228369
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: toadCW0
+      rect:
+        serializedVersion: 2
+        x: 4
+        y: 179
+        width: 20
+        height: 27
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c01d5a05108ec8db0800000000000000
+      internalID: -4788197211456024308
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: toadCW1
+      rect:
+        serializedVersion: 2
+        x: 29
+        y: 179
+        width: 20
+        height: 26
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4891b75a53fd34b90800000000000000
+      internalID: -7258712752888538748
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: toadCW2
+      rect:
+        serializedVersion: 2
+        x: 54
+        y: 179
+        width: 20
+        height: 25
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3cf383960be0b2480800000000000000
+      internalID: -8923022085862178877
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: toadCW3
+      rect:
+        serializedVersion: 2
+        x: 79
+        y: 179
+        width: 20
+        height: 26
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 56f4d148393996ba0800000000000000
+      internalID: -6095178358883266715
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: toadCW4
+      rect:
+        serializedVersion: 2
+        x: 104
+        y: 179
+        width: 20
+        height: 27
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 74ec7eb4145bd65a0800000000000000
+      internalID: -6526360992938996153
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: toadCW5
+      rect:
+        serializedVersion: 2
+        x: 129
+        y: 179
+        width: 20
+        height: 26
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 32543c49aeeadebc0800000000000000
+      internalID: -3752150591988349661
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: toadCW6
+      rect:
+        serializedVersion: 2
+        x: 154
+        y: 179
+        width: 20
+        height: 25
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 404a4fc6fed1b85f0800000000000000
+      internalID: -753475598492064764
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: toadCW7
+      rect:
+        serializedVersion: 2
+        x: 179
+        y: 179
+        width: 20
+        height: 26
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6dba1e9f70e6c62c0800000000000000
+      internalID: -4437050552330638378
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: toadDS0
+      rect:
+        serializedVersion: 2
+        x: 4
+        y: 142
+        width: 20
+        height: 29
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c71306f7e42751b60800000000000000
+      internalID: 7716199218039239036
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: toadDS1
+      rect:
+        serializedVersion: 2
+        x: 34
+        y: 142
+        width: 21
+        height: 31
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a1f392910998c3350800000000000000
+      internalID: 5997820055741087514
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: toadDS2
+      rect:
+        serializedVersion: 2
+        x: 65
+        y: 142
+        width: 22
+        height: 32
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0e4845473300a15e0800000000000000
+      internalID: -1938236468634549024
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: toadDS3
+      rect:
+        serializedVersion: 2
+        x: 97
+        y: 142
+        width: 21
+        height: 32
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a2151ced81a5c4790800000000000000
+      internalID: -7544556212889497302
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: toadBS0
+      rect:
+        serializedVersion: 2
+        x: 4
+        y: 104
+        width: 19
+        height: 29
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6077f872cca51a730800000000000000
+      internalID: 4008584976219993862
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: toadBS1
+      rect:
+        serializedVersion: 2
+        x: 33
+        y: 104
+        width: 20
+        height: 31
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0981e280ed82053e0800000000000000
+      internalID: -2067107294877968240
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: toadBS2
+      rect:
+        serializedVersion: 2
+        x: 63
+        y: 104
+        width: 22
+        height: 32
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 05ba90a7079b4c1a0800000000000000
+      internalID: -6790098445432935600
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: toadBS3
+      rect:
+        serializedVersion: 2
+        x: 95
+        y: 104
+        width: 21
+        height: 32
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6360dacf76a9dd160800000000000000
+      internalID: 7051962362943571510
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: toadAS3
+      rect:
+        serializedVersion: 2
+        x: 290
+        y: 104
+        width: 21
+        height: 32
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 07d96541e7777fa80800000000000000
+      internalID: -8433140393837159056
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: toadAS2
+      rect:
+        serializedVersion: 2
+        x: 321
+        y: 104
+        width: 22
+        height: 32
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 60f7a3515ad5430b0800000000000000
+      internalID: -5749867860638138618
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: toadAS1
+      rect:
+        serializedVersion: 2
+        x: 353
+        y: 104
+        width: 20
+        height: 31
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 04b383bab5c1dfb70800000000000000
+      internalID: 8934328415813122880
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: toadAS0
+      rect:
+        serializedVersion: 2
+        x: 383
+        y: 104
+        width: 19
+        height: 29
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6ae2631687aa8bf60800000000000000
+      internalID: 8050371767928499878
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: toadCS0
+      rect:
+        serializedVersion: 2
+        x: 4
+        y: 66
+        width: 20
+        height: 29
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ef5197ef4e489bfc0800000000000000
+      internalID: -3478603118110239234
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: toadCS1
+      rect:
+        serializedVersion: 2
+        x: 34
+        y: 66
+        width: 21
+        height: 31
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 41f032a7b656714f0800000000000000
+      internalID: -858105691705766124
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: toadCS2
+      rect:
+        serializedVersion: 2
+        x: 65
+        y: 66
+        width: 22
+        height: 32
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c743960ba915258b0800000000000000
+      internalID: -5164976097814039428
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: toadCS3
+      rect:
+        serializedVersion: 2
+        x: 97
+        y: 66
+        width: 21
+        height: 32
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 596083d92c040b480800000000000000
+      internalID: -8885530860196460907
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: toadBL
+      rect:
+        serializedVersion: 2
+        x: 134
+        y: 66
+        width: 30
+        height: 21
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bcd2163a54b978680800000000000000
+      internalID: -8752856627375166005
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: toadAL
+      rect:
+        serializedVersion: 2
+        x: 242
+        y: 66
+        width: 30
+        height: 21
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 62cd564537ba83ea0800000000000000
+      internalID: -5892771600588743642
       vertices: []
       indices: 
       edges: []
