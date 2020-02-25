@@ -28,17 +28,17 @@ public class OverworldPlayer : MonoBehaviour
     char getDirection(float hspeed, float vspeed) {
         const float deadzone = 0f;
 
-        bool nh = hspeed < deadzone; // Negative Hspeed
+        bool nh = hspeed < -deadzone; // Negative Hspeed
         bool ph = hspeed > deadzone; // Positive Hspeed
-        bool nv = vspeed < deadzone; // Negative Vspeed
+        bool nv = vspeed < -deadzone; // Negative Vspeed
         bool pv = vspeed > deadzone; // Positive Vspeed
 
         char o = 'x'; // 'x' => unchanged
 
         if (nh) o = 'A'; // Left
         if (ph) o = 'B'; // Right
-        if (nv) o = 'C'; // Up
-        if (pv) o = 'D'; // Down
+        if (pv) o = 'C'; // Down
+        if (nv) o = 'D'; // Up
 
         if (nh && pv) o = 'E'; // Northwest ( Left + Up )
         if (nh && nv) o = 'F'; // Southwest ( Left + Down )
@@ -71,8 +71,9 @@ public class OverworldPlayer : MonoBehaviour
         if ("EFGH".IndexOf(direction) != -1)
             animator.speed = (Mathf.Abs(hspeed) + Mathf.Abs(vspeed)) / 2 * PPU;
 
-        debugoutput.text = pclass + state + direction;
-        animator.Play(pclass + state + direction);
+        // set state
+        debugoutput.text = pclass + direction + state;
+        animator.Play(debugoutput.text);
         
         // if not moving, set to frame 0
         if (animator.speed == 0)
